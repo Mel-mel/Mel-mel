@@ -1,9 +1,9 @@
-Hello! My name is Melissa. Video gamer and software developer.
+Hello! My name is Melissa. Software developer and video gamer.
 
 Interested in graphics, games, front end development, and cats. :smiley_cat:
 
 I'm currently learning C#, React, ASP.NET MVC, ASP.NET Web API, and SQL. 
-And if I have spare time, I'll take a peek into Unity and dip my toes into Flutter apps
+And if I have spare time, I'll take a peek into Unity, Godot, Flutter, and more.
 
 <!--
 **Mel-mel/Mel-mel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
